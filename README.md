@@ -64,6 +64,7 @@ Create videos with AI-generated human presenters.
 | **Synthesia** | Enterprise-grade, custom avatar training | [synthesia.io](https://synthesia.io) |
 | **D-ID** | Real-time streaming avatars, API access | [d-id.com](https://d-id.com) |
 | **HeyVid** | AI avatar videos with natural expressions and multilingual narration, optimized for social media formats | [heyvid.ai](https://heyvid.ai) |
+| **Podframes** | Local two-host podcast videos with scripted dialogue, voices, lip-sync, captions | [GitHub](https://github.com/Jellypod-Inc/podframes) |
 | **Colossyan** | Workplace learning focused, multi-character scenes | [colossyan.com](https://colossyan.com) |
 
 ### Video Editing & Enhancement
