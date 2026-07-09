@@ -35,6 +35,7 @@ Generate videos from text descriptions/prompts.
 | **Pika** | Fast iteration, lip-sync, scene modification | Freemium | [pika.art](https://pika.art) |
 | **Kling AI** | Long-form video up to 2min, strong motion coherence | Freemium | [klingai.com](https://klingai.com) |
 | **HeyVid** | All-in-one AI video creation with smart templates, supports batch generation and multi-language voiceover | Freemium | [heyvid.ai](https://heyvid.ai) |
+| **ImagineClip** | Avatar clips, stylized scenes, and social-ready video generation | Freemium | [imagineclip.com](https://imagineclip.com) |
 | **Luma Dream Machine** | Realistic physics, smooth camera movement | Freemium | [lumalabs.ai](https://lumalabs.ai) |
 | **Vidu** | High-fidelity character consistency, Chinese & English | Freemium | [vidu.com](https://www.vidu.com) |
 | **Hailuo AI (MiniMax)** | Expressive motion, character animation | Free | [hailuoai.video](https://hailuoai.video) |
