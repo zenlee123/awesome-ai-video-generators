@@ -76,6 +76,7 @@ AI-powered editing, upscaling, and post-production.
 | **CapCut** | Auto-captions, templates, mobile-first editing | [capcut.com](https://capcut.com) |
 | **Topaz Video AI** | AI upscaling, deinterlacing, motion interpolation | [topazlabs.com](https://topazlabs.com) |
 | **Opus Clip** | Auto-extract viral short clips from long videos | [opus.pro](https://opus.pro) |
+| **videos.social** | Blog/PDF/prompt to editable faceless video draft | [videos.social](https://videos.social/?utm_source=awesome-ai-video-generators&utm_medium=directory&utm_campaign=listing-wave-d) |
 | **Vizard** | AI-powered repurposing for social media clips | [vizard.ai](https://vizard.ai) |
 
 ---
