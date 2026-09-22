@@ -80,6 +80,8 @@ AI-powered editing, upscaling, and post-production.
 
 ---
 
+| **OrkasVideoStudio** | Agent-driven editing with editable plan.json timelines; source install | Free / Open Source | [GitHub](https://github.com/Orkas-AI/Orkas-VideoStudio) |
+
 ## Open Source Models
 
 | Model | Organization | Description | Link |
