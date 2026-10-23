@@ -53,6 +53,7 @@ Animate still images into video clips.
 | **Pika (Image Animate)** | Quick animation with style control | [pika.art](https://pika.art) |
 | **Kling Image-to-Video** | Long clip generation from single image | [klingai.com](https://klingai.com) |
 | **DomoAI** | Stylized animation from reference images | [domoai.app](https://domoai.app) |
+| **Window Peeper AI** | One portrait to a 14s vertical Window Peeper meme video; paid credits | [windowpeeperai.pro](https://windowpeeperai.pro/) |
 
 ### Avatar & Talking Head
 
