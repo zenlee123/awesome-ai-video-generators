@@ -31,6 +31,7 @@ Generate videos from text descriptions/prompts.
 
 | Tool | Highlights | Pricing | Link |
 |------|-----------|---------|------|
+| **Ideoy** | Remake viral videos 1:1 with AI templates | Freemium | [ideoy.ai](https://ideoy.ai) |
 | **Runway Gen-3** | High-quality cinematic generation, motion brush control | Freemium | [runway.com](https://runway.com) |
 | **Pika** | Fast iteration, lip-sync, scene modification | Freemium | [pika.art](https://pika.art) |
 | **Kling AI** | Long-form video up to 2min, strong motion coherence | Freemium | [klingai.com](https://klingai.com) |
@@ -47,6 +48,7 @@ Animate still images into video clips.
 
 | Tool | Highlights | Link |
 |------|-----------|------|
+| **Ideoy** | Remake viral shorts 1:1 from image/video refs | [ideoy.ai](https://ideoy.ai) |
 | **Runway Gen-3 (Image-to-Video)** | Multi-frame control, fine-tuned motion | [runway.com](https://runway.com) |
 | **Stable Video Diffusion** | Open-source, local inference possible | [stability.ai](https://stability.ai) |
 | **HeyVid** | Upload images and transform into videos with AI-powered scene transitions and motion effects | [heyvid.ai](https://heyvid.ai) |
