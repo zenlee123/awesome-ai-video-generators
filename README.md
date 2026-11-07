@@ -40,6 +40,7 @@ Generate videos from text descriptions/prompts.
 | **Hailuo AI (MiniMax)** | Expressive motion, character animation | Free | [hailuoai.video](https://hailuoai.video) |
 | **Sora** | OpenAI's video model, realistic world simulation | Waitlist/Paid | [openai.com](https://openai.com/sora) |
 | **Google Veo** | Google DeepMind's video generation, integrated with Vertex AI | Limited access | [deepmind.google](https://deepmind.google/technologies/veo/) |
+| **Cyanvid** | Text/image to video with clear credit quotes before generate | Freemium | [cyanvid.com](https://cyanvid.com/?utm_source=zenlee123-awesome-ai-video-generators&utm_medium=directory&utm_campaign=backlinks) |
 
 ### Image-to-Video
 
@@ -77,6 +78,7 @@ AI-powered editing, upscaling, and post-production.
 | **Topaz Video AI** | AI upscaling, deinterlacing, motion interpolation | [topazlabs.com](https://topazlabs.com) |
 | **Opus Clip** | Auto-extract viral short clips from long videos | [opus.pro](https://opus.pro) |
 | **Vizard** | AI-powered repurposing for social media clips | [vizard.ai](https://vizard.ai) |
+| **Barz Studio** | Free browser rap lyric video maker; beat-reactive captions, 9:16 WebM | Free | [barzvideo.com](https://barzvideo.com/?utm_source=zenlee123-awesome-ai-video-generators&utm_medium=directory&utm_campaign=backlinks) |
 
 ---
 
