@@ -47,6 +47,7 @@ Animate still images into video clips.
 
 | Tool | Highlights | Link |
 |------|-----------|------|
+| **ReelAI** | Template-based short video generation from photos | [tryreelai.com](https://tryreelai.com/) |
 | **Runway Gen-3 (Image-to-Video)** | Multi-frame control, fine-tuned motion | [runway.com](https://runway.com) |
 | **Stable Video Diffusion** | Open-source, local inference possible | [stability.ai](https://stability.ai) |
 | **HeyVid** | Upload images and transform into videos with AI-powered scene transitions and motion effects | [heyvid.ai](https://heyvid.ai) |
